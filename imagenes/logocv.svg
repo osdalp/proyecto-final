@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#007f7f" height="468.000003" id="svg_7" stroke="#000000" stroke-width="5" width="632.000006" x="4.500003" y="6.500007"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_8" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(44.3665 0 0 5.70004 -11849.5 -1374.36)" x="274.5" xml:space="preserve" y="293.5"/>
+  <ellipse cx="109.5" cy="98.5" fill="#000000" id="svg_14" rx="81" ry="79" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="127.5" cy="66.5" fill="#00007f" id="svg_15" rx="1" ry="0" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="358.500006" cy="95.5" fill="#ffffff" id="svg_21" rx="236.000006" ry="17" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_22" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(8.40453 0 0 7.92679 -3991.67 -1913.09)" x="513.151608" xml:space="preserve" y="288.023571">ODAJ</text>
+ </g>
+</svg>
